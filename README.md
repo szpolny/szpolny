@@ -29,6 +29,7 @@ Motorsport schedules for **F1, MotoGP, WEC, IndyCar, WRC** and more, shown in yo
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
 
 ## <img src="assets/emotes/waitgers.gif" alt="Waitgers" height="28"> Find me
 
