@@ -1,8 +1,7 @@
 # Hi, I'm Szymon <img src="assets/emotes/wavegers.gif" alt="Wavegers" height="32">
 
-Developer from Poland 🇵🇱 who builds tools for the things I care about. <img src="assets/emotes/scuba.gif" alt="SCUBA" height="20">
+Developer from Poland 🇵🇱 who builds tools for the things I care about. 
 
-<img src="assets/emotes/dancin.webp" alt="dancin" height="40">
 
 Most of my recent work is in **Rust** and **TypeScript/Svelte**: desktop apps with Tauri, web apps with SvelteKit, and small utilities that fix problems I run into myself.
 
